@@ -1,4 +1,4 @@
-<h3 align="left">My name is Shahd Amr, and I am a Software Engineer 👩‍💻 and Frontend Developer 🌐 from Beni Suef. I specialize in building modern, responsive web applications with a strong focus on user experience and performance.</h3>
+<h3 align="left">I am a Software Engineer 👩‍💻 and Frontend Developer 🌐 from Beni Suef. I specialize in building modern, responsive web applications with a strong focus on user experience and performance.</h3>
 
 ###
 
