@@ -54,7 +54,7 @@ To become a professional .NET Backend Developer and build real-world, production
 | Project | Description |
 |---------|-------------|
 | 🚑 EpiCare AI Backend | Backend API for healthcare management system |
-| 📚 Library Management API | CRUD + Authentication + SQL Server *(Coming Soon)* |
+| 📚 Inventory Management | CRUD + Authentication + SQL Server *(Coming Soon)* |
 
 ---
 
