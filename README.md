@@ -18,7 +18,6 @@ I'm passionate about building scalable and maintainable backend applications usi
 To become a professional .NET Backend Developer and build real-world, production-ready applications.
 
 ---
-
 ## 🛠️ Tech Stack
 
 <p align="left">
